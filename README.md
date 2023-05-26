@@ -35,7 +35,7 @@ This is an used Car Selling Business Website for Mobhil cars company, where user
     EMAIL_USE_TLS=True
     ```
     _Note: If you are using gmail account, make sure to [use app password](https://support.google.com/accounts/answer/185833)_
-9. If you use pgAdmin4 GUI like me, you can open it and create a database. 
+9. If you use pgAdmin4 GUI like me, you can open it and create a database for example mobhiltest. 
 10. Then open your Settings.py file and the Database section, rename the database name to the one you just created.
 11. To create your database tables, issue the commands below:
     ```sh
